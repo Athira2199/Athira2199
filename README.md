@@ -6,7 +6,7 @@
 ### Life is a riddle, so how do you solve it ? 🤔
 > Just live it ⚡ and guess what!!!!! you have solved it in the process of living it 😄
 
-[(https://github-readme-stats.vercel.app/api?username=Athira2199)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
